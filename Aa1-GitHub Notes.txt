@@ -1,0 +1,6 @@
+So in order to do all of this we need to replace the files each time we update them, this can be done from anywhere and
+im not sure in you know any of this but the way I had to do the first two copies was after i changed some things i 
+made a copy of the new updated code and just threw it into my github folder and replaced the files that were in there
+
+Okay so looking into what i did before don't replace the files that were in the folder, just add them as separate copies 
+so we can have the old versions of the code
